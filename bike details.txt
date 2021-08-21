@@ -1,0 +1,18 @@
+budget bike
+===========
+ct 100
+boxer
+splendor
+
+low level race bikes:
+===================
+pulsar
+duke
+himalayan
+
+race bikes:
+===========
+hyabusa
+KTM
+ducati
+bmw
